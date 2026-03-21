@@ -6,6 +6,8 @@ Este es un demo de un visor interactivo de libros en 3D con carrusel, admite rot
 
 ## Vista General
 
+https://github.com/user-attachments/assets/5529595a-cbaf-411e-9656-752c2799dc93
+
 Este proyecto presenta una colección de libros clásicos como placeholders que fungen como modelos tridimensionales y se encuentran plenamente desarrollados y ejecutados con CSS 3D Transforms. 
 
 Cada libro aquí presentado posee una portada sencilla, contraportada, lomo y texturas de páginas, el objetivo de este proyecto es experimentar con los límites de CSS 3D Transforms y crear una experiencia visualmente atractiva e interactiva.
